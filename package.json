@@ -1,0 +1,18 @@
+{
+  "name": "instagram-explore-section-automate",
+  "version": "1.0.0",
+  "description": "automate instagram explore section to you account after eaditing those downloaded shorts videos using instagram cookis",
+  "main": "index.js",
+  "scripts": {
+    "test": "insta_auto.py"
+  },
+  "keywords": [
+    "instagram",
+    "automate",
+    "instagram",
+    "auto",
+    "post"
+  ],
+  "author": "Nitish Kumar",
+  "license": "ISC"
+}
